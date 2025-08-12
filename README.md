@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FoxYou
+- 👋 Hi, I’m FoxYou (a.k.a. Flux, a.k.a. Flo)
 - 👀 I’m interested in AI Safety, especially AI Interpretability, and the links between AI and neuroscience
 - 🌱 I’m currently learning many things @EPFL Neuro-X Institute
 
